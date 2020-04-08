@@ -3,3 +3,5 @@ Just made my first app on JS. Did it along with Brad Traversy and his course "Mo
 Added edit option to this project by myself. 
 You can add, edit and filter your tasks. 
 All tasks are persistent and save to Local Storage.
+
+https://whiteartur1997.github.io/whiteartur1997-todo_list/
